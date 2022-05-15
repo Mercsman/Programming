@@ -7,3 +7,9 @@ volumes.txt
 tire_volume.py
 mpg.py
 fitness.py
+draw2d.py
+scene.py
+cone_volume.py
+can_sizes.py
+_pycache_
+draw2d.cpython-310.pyc
