@@ -11,5 +11,12 @@ draw2d.py
 scene.py
 cone_volume.py
 can_sizes.py
+names.py
 _pycache_
 draw2d.cpython-310.pyc
+test2.py
+words.py
+test_words.py
+test_names.py
+sentences.py
+test_sentences.py
