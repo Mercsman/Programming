@@ -28,4 +28,6 @@ random_numbers.py
 test_random_numbers.py
 chemistry.py
 test_chemistry_1.py
+test_chemistry_2.py
 vehicles.py
+family_history.py
