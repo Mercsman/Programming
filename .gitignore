@@ -31,3 +31,11 @@ test_chemistry_1.py
 test_chemistry_2.py
 vehicles.py
 family_history.py
+provinces.py
+provinces.txt
+students.csv
+students.py
+products.csv
+request.csv
+receipt.py
+test_products.py
