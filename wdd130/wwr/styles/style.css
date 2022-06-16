@@ -390,7 +390,7 @@ main section img {
     width: 100%;
     grid-column: 1/11;
     grid-row: 4/8;
-    filter: opacity(1) drop-shadow(#3da5d9);
+    /* filter: opacity(1) drop-shadow(#3da5d9); */
     box-shadow: 5px 5px 10px #6f7364;
     z-index: -1;
     
@@ -459,13 +459,13 @@ main section {
     /* align: justify-self; */
     background-color:#73bfb8;
     border-radius:4px;
-    font-size:16;
+    font-size:20px;
     padding:50px;
     margin:5px;
     grid-column: 2/4;
     grid-row: 4/8;
     position: relative;
-    bottom: 625px;
+    bottom: 550px;
     right: 700px;
 }
 
