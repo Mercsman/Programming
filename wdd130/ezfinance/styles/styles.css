@@ -301,10 +301,38 @@ h1, h2, h3, h4, h5, h6 {
     border: 5px solid black;
 }
 
+.card-img2 {
+    opacity: 1;
+    display: block;
+    /* width: 100%; */
+    /* height: auto; */
+    backface-visibility: hidden;
+    transition: .5s ease;
+}
+
+.welcome-text2:hover .card-img2 {
+    opacity:0.3
+}
+
+.welcome-text2:hover .middle {
+    opacity: 1;
+}
+
+.text {
+    background-color: #3a3b3c;
+    color: #dfc55a;
+    font-size: 32px;
+    padding: 16px 32px;
+    /* justify-items: center; */
+    margin-left: 100px;
+    margin-bottom: 100px;
+    margin-top: -100px;
+}
+
 .welcome-text2 img {
     margin-bottom: 100px;
     margin-left: 100px;
-    margin-top: -400px;
+    margin-top: -350px;
 }
 
 .welcome-text2 {
