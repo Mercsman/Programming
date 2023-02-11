@@ -103,3 +103,7 @@ Winter 2022
 __pycache__
 .pytest_cache
 W07-8Project
+node_modules
+package-location.json
+package.json
+package-lock.json
